@@ -1,0 +1,1 @@
+pekerja: python darkbot.py
